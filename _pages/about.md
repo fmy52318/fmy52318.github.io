@@ -25,7 +25,7 @@ Position
 - **Sep 2020 - Jan 2021:** Research Assistant (Part-time), College of Business, City University of Hong Kong
 
 Distinctions and honors
-------
+======
 - **Dec 2022：** 2022 AIS Doctoral Student Service Award, Association for Information Systems (AIS)
 - **Dec 2020:** Best Paper Award, 19th Annual Pre-ICIS Workshop on HCI Research in MIS
 - **Sep 2020:** 2019 Best Reviewer Award, Transactions on Human-Computer Interaction
@@ -40,5 +40,5 @@ Distinctions and honors
 - **Nov 2012:** Outstanding Student Scholarship (silver award), University of Science and Technology of China, Hefei, China
 
 News and Updates
-------
+======
 
